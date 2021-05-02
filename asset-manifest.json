@@ -1,15 +1,15 @@
 {
-  "main.css": "/grayroomSPA/static/css/main.22fe51aa.chunk.css",
-  "main.js": "/grayroomSPA/static/js/main.c1de09f2.chunk.js",
-  "main.js.map": "/grayroomSPA/static/js/main.c1de09f2.chunk.js.map",
-  "static/css/1.cb7ef627.chunk.css": "/grayroomSPA/static/css/1.cb7ef627.chunk.css",
-  "static/js/1.b0a1e5a3.chunk.js": "/grayroomSPA/static/js/1.b0a1e5a3.chunk.js",
-  "static/js/1.b0a1e5a3.chunk.js.map": "/grayroomSPA/static/js/1.b0a1e5a3.chunk.js.map",
-  "runtime~main.js": "/grayroomSPA/static/js/runtime~main.7803f875.js",
-  "runtime~main.js.map": "/grayroomSPA/static/js/runtime~main.7803f875.js.map",
-  "static/css/1.cb7ef627.chunk.css.map": "/grayroomSPA/static/css/1.cb7ef627.chunk.css.map",
-  "static/css/main.22fe51aa.chunk.css.map": "/grayroomSPA/static/css/main.22fe51aa.chunk.css.map",
-  "index.html": "/grayroomSPA/index.html",
-  "precache-manifest.103fb3d93929e1e5f3a0842cae9d6739.js": "/grayroomSPA/precache-manifest.103fb3d93929e1e5f3a0842cae9d6739.js",
-  "service-worker.js": "/grayroomSPA/service-worker.js"
+  "main.css": "/static/css/main.22fe51aa.chunk.css",
+  "main.js": "/static/js/main.c1de09f2.chunk.js",
+  "main.js.map": "/static/js/main.c1de09f2.chunk.js.map",
+  "static/css/1.cb7ef627.chunk.css": "/static/css/1.cb7ef627.chunk.css",
+  "static/js/1.b0a1e5a3.chunk.js": "/static/js/1.b0a1e5a3.chunk.js",
+  "static/js/1.b0a1e5a3.chunk.js.map": "/static/js/1.b0a1e5a3.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/1.cb7ef627.chunk.css.map": "/static/css/1.cb7ef627.chunk.css.map",
+  "static/css/main.22fe51aa.chunk.css.map": "/static/css/main.22fe51aa.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.43a9840d2bf3876dcd07fb771bd712c1.js": "/precache-manifest.43a9840d2bf3876dcd07fb771bd712c1.js",
+  "service-worker.js": "/service-worker.js"
 }
