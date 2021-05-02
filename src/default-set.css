@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+#modal-root {
+	position: relative;
+	z-index: 999;
+}
+
+.modal {
+	position: fixed;
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	padding: 30px;
+	
+	animation: fadeIn .3s ease-out;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+ 	}
+}
